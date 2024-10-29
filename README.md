@@ -1,10 +1,12 @@
 <p align="center">
   <img align="center" style="border-radius: 50%; height: 200px; width: 200px;" src="https://media.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif" />
 </p>
+<br>
+<h1 align="center">throw new Error("👋 Hi there! I'm Saabith, Software Developer 🚀");</h1>
 
-
-<h1 align="center"> Hey there👋 I'm Saabith</h1> 
-
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Amaranth&weight=500&size=30&pause=500&color=2E7EF7&width=435&lines=Welcome+To+My+Profile;++;I'm+a++Full-Stack+Developer,;Computer+Science+Student,;Artificial Intellingece Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3" alt="Typing SVG" /></a>
+</p>
 <h3 align="center">
   🌏 From Sri Lanka <br> 
   📚 Undergraduate Student at SLIIT City UNI <br>
@@ -89,22 +91,24 @@
   </a>
 </p>
 
----
-
-<h2 align="center">📬 GET IN TOUCH!</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-saabith-5980a5223/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-
 <h2 align="center">📊 GITHUB STATISTICS </h2>
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Saabithsp&show_icons=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github&bg_color=00000000" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saabithsp&hide_border=true&theme=github_dark&bg_color=00000000" alt="Top Languages" />
 </p>
+
+<h2 align="center">📬 GET IN TOUCH !</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-saabith-5980a5223/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:yourname@example.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+
 
 <h2 align="center">🙏 THANK YOU FOR VISITING!</h2>
