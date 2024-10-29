@@ -2,13 +2,14 @@
   <img align="center" style="border-radius: 50%; height: 200px; width: 200px;" src="https://media.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif" />
 </p>
 <br>
-<h1 align="center">throw new Error("👋 Hi there! I'm Saabith, Software Developer 🚀");</h1>
+<h1 align="center"> 👋 Hi there! I'm Saabith </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Amaranth&weight=500&size=30&pause=500&color=2E7EF7&width=435&lines=Welcome+To+My+Profile;++;I'm+a++Full-Stack+Developer,;Computer+Science+Student,;Artificial Intellingece Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Amaranth&weight=500&size=35&vCenter=true&pause=500&color=2E7EF7&width=435&lines=Welcome+To+My+Profile;++;I'm+a++Full-Stack+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3" alt="Typing SVG" /></a>
 </p>
+
 <h3 align="center">
-  🌏 From Sri Lanka <br> 
+  🌏 Sri Lankan <br> 
   📚 Undergraduate Student at SLIIT City UNI <br>
   🚀 MERN/SERN Web Developer | AI/ML Enthusiast | Graphics & UI/UX Designer <br>
 </h3>
