@@ -5,7 +5,7 @@
 <h1 align="center"> 👋 Hi there! I'm Saabith </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Amaranth&weight=500&size=35&vCenter=true&pause=500&color=2E7EF7&width=435&lines=Welcome+To+My+Profile;++;I'm+a++Full-Stack+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Amaranth&weight=500&size=35&vCenter=true&pause=600&color=2E7EF7&width=500&lines=Welcome+To+My+Profile;++;I'm+a++Full-Stack+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3" alt="Typing SVG" /></a>
 </p>
 
 <h3 align="center">
